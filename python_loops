@@ -1,3 +1,4 @@
+#product of digits of number entered by user
 num = str(input("Enter your number: "))
 p =1
 
